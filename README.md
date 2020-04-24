@@ -1,5 +1,5 @@
 # W_Encryptor
-Der W_Encrypter verschlüsselt Dateien anhand von Python. Diese können nur noch mit dem jeweiligen decrypter entschlüsselt werden.
+Der W_Encrypter verschlüsselt Dateien anhand von Python. Diese können nur mit dem jeweiligen Key entschlüsselt werden.
 
 Version 1.0
 
