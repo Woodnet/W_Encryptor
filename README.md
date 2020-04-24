@@ -17,7 +17,8 @@ Version 1.0
           pip install --user tkinter 
 # Zusätzliche Info zu Linux Betriebssystemen:
 
-    Bei den Linux Betriebssystemen wie z.B. Kali Linux ist Python3 und Python2 vorinstalliert und somit kann der Command
+    Bei den Linux Betriebssystemen wie z.B. Kali Linux ist Python3 und Python2 vorinstalliert und 
+    somit kann der Command
     pip3 für die Pyhton3 Module verwendet werden.
 # Achtung!
 
