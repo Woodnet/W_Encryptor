@@ -25,3 +25,4 @@ Version 1.0
 Dieses Programm ist eine grafische Anwendung, wesshalb es somit nicht auf Betriebssystemen wie 
         
          Debian Minimal
+funtioniert
