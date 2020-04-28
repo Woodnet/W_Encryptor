@@ -4,7 +4,7 @@ Der W_Encrypter verschlüsselt Dateien anhand von Python. Diese können nur mit 
 Version 1.0
 
 
-# Das Script kannst du jetzt auf unserer Website herrunterladen! https://woodnet.000webhostapp.com
+# Das Script kannst du jetzt auf unserer Website herunterladen! https://woodnet.000webhostapp.com
 
 # Erforderliche Pyhton3-Module
     --> Tkinter
